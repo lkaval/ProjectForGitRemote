@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     class Book
     {
+        //Сделал подзадачу 2
     }
 }
