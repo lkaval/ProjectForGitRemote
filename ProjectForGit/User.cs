@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     class User
     {
+        //user = new user();
     }
 }
